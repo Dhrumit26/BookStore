@@ -1,5 +1,6 @@
-1) Spearheaded the development of a Python-based Pokémon battle simulation program.
-2) Empowered users with the choice of their starter Pokémon (Charmander, Squirtle, or Bulbasaur) for immersive, strategy-packed battles.
-3) Developed a dynamic turn-based battle system, allowing players to strategically select attack types and execute specific moves.
-4) Meticulously tracked health points (HP) for both user and gym leader's Pokémon, determining the ultimate victor. Exhibited profound
-5) Python programming and game development prowess, delivering nostalgia for Pokémon enthusiasts.
+1) Created a Python program featuring a user-friendly menu system that shows a math operation calculator, an efficient bookstore system for catalog and cart management, and a palindrome tester.
+2) Pioneered mathematical expression evaluation, skillfully handling variables with precision and conducting result calculations while ensuring expression validation and dynamic variable substitution.
+3) Orchestrated the catalog and cart management for books, enabling seamless loading, addition, and removal of items. Implemented advanced book search options and identified top-selling products.
+4) Streamlined the interface for intuitive feature selection within a single, command-line application.
+
+  
